@@ -1,0 +1,5 @@
+bin/
+log/
+obj/
+RestApi.csproj.user
+RestApi.csproj.DotSettings
